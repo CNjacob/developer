@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a **developer knowledge base** — a collection of markdown documents covering iOS, mobile cross-platform development, Python backend development, frontend languages, and compiler fundamentals. There is no source code, build system, or test suite in this repository.
+This is a **developer knowledge base** — a collection of markdown documents covering iOS, mobile cross-platform development, Python backend development, frontend languages, compiler fundamentals, and development environment setup. There is no source code, build system, or test suite in this repository.
 
 ## Document Structure
 
@@ -29,6 +29,7 @@ This is a **developer knowledge base** — a collection of markdown documents co
 | `Python-Backend/` | `Python-Web-Backend-Frameworks.md` | FastAPI、Django、Flask、Starlette、gRPC、GraphQL 与框架选型 |
 | `Frontend-Languages/` | `JavaScript-TypeScript-Knowledge.md` | JavaScript 运行模型、闭包、原型、异步、模块化与 TypeScript 类型系统、严格配置 |
 | `Compiler-Systems/` | `LLVM-Deep-Dive.md` | LLVM 架构、IR、Clang、Pass、优化、Swift/ObjC 编译链与学习路线 |
+| `Development-Environment/` | `macOS-Basic-Environment-Setup.md` | macOS 基础环境搭建、Homebrew、Oh My Zsh、nvm、rbenv、pyenv 与常用版本管理命令 |
 
 ## Guidelines for Adding New Content
 
