@@ -16,7 +16,7 @@ This is an **iOS development knowledge base** — a collection of markdown docum
 | `iOS-Architecture-Design.md` | MVC/MVVM/响应式框架、UIKit vs SwiftUI 架构对比、Coordinator 模式 |
 | `SwiftUI-UIKit-Comparison.md` | SwiftUI 定位、与 UIKit 的关系、编程模型差异、优劣对比、混编和选型 |
 | `Objective-C-Underlying-Principles.md` | ObjC 对象系统、SEL/IMP、Block 底层、KVC/KVO、ARC/weak 实现 |
-| `Swift-Underlying-Principles.md` | Swift 编译流水线、类型系统、方法调度、泛型单态化、Concurrency |
+| `Swift-Underlying-Principles.md` | Swift 基础语法、集合类型、泛型、面向协议编程、函数式编程、编译流水线、类型系统、Concurrency 和多线程 |
 | `iOS-Audio-Video-Development.md` | 音视频基础、AVFoundation 架构、音视频采集/播放/编解码、实时通信、渲染优化 |
 | `iOS-Security-Mechanisms.md` | Keychain、Data Protection、Sandbox、ATS、代码签名、混淆、反调试、安全落地方案 |
 | `iOS-Performance-Optimization.md` | 启动优化、包体积、内存、UI渲染、流畅度、CPU、I/O、网络与性能监控 |
