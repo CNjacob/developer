@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a **developer knowledge base** — a collection of markdown documents covering iOS, mobile cross-platform development, Python backend development, frontend languages, compiler fundamentals, and development environment setup. There is no source code, build system, or test suite in this repository.
+This is a **developer knowledge base** — a collection of markdown documents covering iOS, Android, mobile cross-platform development, Python backend development, frontend languages, compiler fundamentals, and development environment setup. There is no source code, build system, or test suite in this repository.
 
 ## Document Structure
 
@@ -16,6 +16,11 @@ This is a **developer knowledge base** — a collection of markdown documents co
 | `iOS-Development/` | `iOS-Audio-Video-Development.md` | 音视频基础、AVFoundation 架构、音视频采集/播放/编解码、实时通信、渲染优化 |
 | `iOS-Development/` | `iOS-Security-Mechanisms.md` | Keychain、Data Protection、Sandbox、ATS、代码签名、混淆、反调试、安全落地方案 |
 | `iOS-Development/` | `iOS-Performance-Optimization.md` | 启动优化、包体积、内存、UI渲染、流畅度、CPU、I/O、网络与性能监控 |
+| `Android-Development/` | `Android-Environment-Setup.md` | Android Studio、SDK、模拟器、真机调试、Gradle、ADB 与常见环境问题 |
+| `Android-Development/` | `Android-Core-Knowledge.md` | Android 基础组件、生命周期、UI、网络、存储、权限、架构、测试与发布 |
+| `Android-Development/` | `Android-Architecture-Patterns.md` | Android 常见架构类型、目录结构、MVC、MVP、MVVM、MVI、Clean Architecture、模块化与示例代码 |
+| `Android-Development/` | `Android-Java-Language-Knowledge.md` | Android Java 语法、面向对象、集合、泛型、异常、线程、Handler 与常见写法 |
+| `Android-Development/` | `Android-Kotlin-Language-Knowledge.md` | Android Kotlin 语法、空安全、data class、扩展函数、Lambda、协程、Flow 与常见写法 |
 | `iOS-Underlying-Principles/` | `iOS-Runtime-Deep-Dive.md` | Runtime 启动加载、类/元类结构、isa 走位、消息发送三阶段、动态特性 |
 | `iOS-Underlying-Principles/` | `iOS-RunLoop-Deep-Dive.md` | RunLoop 对象模型、状态机、用户态/内核态切换、触摸事件链路 |
 | `iOS-Underlying-Principles/` | `Objective-C-Underlying-Principles.md` | ObjC 对象系统、SEL/IMP、Block 底层、KVC/KVO、ARC/weak 实现 |
