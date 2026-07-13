@@ -12,7 +12,7 @@
 | `Python-Backend/` | Python 语言、后端架构、Web 框架、项目脚手架 |
 | `Frontend-Languages/` | JavaScript 与 TypeScript 核心知识 |
 | `Compiler-Systems/` | LLVM、编译器体系与底层工具链 |
-| `Development-Environment/` | macOS 基础开发环境、包管理、Shell、语言版本管理器 |
+| `Development-Environment/` | macOS 基础开发环境、前端开发环境、包管理、Shell、语言版本管理器 |
 
 ## 维护规则
 
