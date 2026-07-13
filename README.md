@@ -7,8 +7,8 @@
 | 目录 | 内容 |
 |------|------|
 | `Mobile-Development/iOS/` | iOS 应用开发、架构、UIKit/SwiftUI、音视频、安全、性能优化、底层原理 |
-| `Mobile-Development/Android-Development/` | Android 环境搭建、基础知识、常用开发技术、常见架构、Java 与 Kotlin 语法 |
-| `Mobile-Development/HarmonyOS-Development/` | HarmonyOS 环境搭建、基础知识、ArkTS 语法、ArkUI、架构设计与模块化 |
+| `Mobile-Development/Android-Development/` | Android 环境搭建、基础知识、常用开发技术、常见架构、Java/Kotlin 语法、渲染、性能、安全、音视频 |
+| `Mobile-Development/HarmonyOS-Development/` | HarmonyOS 环境搭建、基础知识、ArkTS 语法、ArkUI、架构设计、渲染、性能、安全、音视频 |
 | `Mobile-Development/Cross-Platform-Mobile/` | React Native、Flutter、Dart、原生组件集成与跨端移动开发 |
 | `Python-Backend/` | Python 语言、后端架构、Web 框架、项目脚手架 |
 | `Frontend-Languages/` | JavaScript 与 TypeScript 核心知识 |

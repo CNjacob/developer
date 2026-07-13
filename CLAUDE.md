@@ -21,10 +21,12 @@ This is a **developer knowledge base** — a collection of markdown documents co
 | `Mobile-Development/Android-Development/` | `Android-Architecture-Patterns.md` | Android 常见架构类型、目录结构、MVC、MVP、MVVM、MVI、Clean Architecture、模块化与示例代码 |
 | `Mobile-Development/Android-Development/` | `Android-Java-Language-Knowledge.md` | Android Java 语法、面向对象、集合、泛型、异常、线程、Handler 与常见写法 |
 | `Mobile-Development/Android-Development/` | `Android-Kotlin-Language-Knowledge.md` | Android Kotlin 语法、空安全、data class、扩展函数、Lambda、协程、Flow 与常见写法 |
+| `Mobile-Development/Android-Development/` | `Android-Advanced-Topics.md` | Android 渲染机制、Looper/Handler、ART、性能优化、安全机制、音视频开发与工具链 |
 | `Mobile-Development/HarmonyOS-Development/` | `HarmonyOS-Environment-Setup.md` | DevEco Studio、HarmonyOS SDK、Stage 模型项目结构、运行调试、签名与 HAP/HAR/HSP 基础 |
 | `Mobile-Development/HarmonyOS-Development/` | `HarmonyOS-Core-Knowledge.md` | HarmonyOS 基础知识、UIAbility、ArkUI、状态管理、路由、权限、网络、存储与组件化 |
 | `Mobile-Development/HarmonyOS-Development/` | `HarmonyOS-ArkTS-Language-Knowledge.md` | ArkTS 语法、类型、函数、类、接口、泛型、异步、ArkUI 状态装饰器与页面常用写法 |
 | `Mobile-Development/HarmonyOS-Development/` | `HarmonyOS-Architecture-Design.md` | HarmonyOS 架构设计、简单分层、MVVM、MVI、Clean Architecture、HAR/HSP 模块化与示例代码 |
+| `Mobile-Development/HarmonyOS-Development/` | `HarmonyOS-Advanced-Topics.md` | HarmonyOS ArkUI 渲染、Ability 调度、ArkTS Runtime、性能优化、安全机制、音视频开发与工具链 |
 | `Mobile-Development/iOS/` | `iOS-Runtime-Deep-Dive.md` | Runtime 启动加载、类/元类结构、isa 走位、消息发送三阶段、动态特性 |
 | `Mobile-Development/iOS/` | `iOS-RunLoop-Deep-Dive.md` | RunLoop 对象模型、状态机、用户态/内核态切换、触摸事件链路 |
 | `Mobile-Development/iOS/` | `Objective-C-Underlying-Principles.md` | ObjC 对象系统、SEL/IMP、Block 底层、KVC/KVO、ARC/weak 实现 |
