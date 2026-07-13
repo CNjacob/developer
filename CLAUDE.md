@@ -28,6 +28,7 @@ This is a **developer knowledge base** — a collection of markdown documents co
 | `Cross-Platform-Mobile/` | `React-Native-Knowledge.md` | React/RN 渲染模型、新架构、原生模块、状态管理、性能、工程化与混合架构 |
 | `Cross-Platform-Mobile/` | `Dart-Language-Knowledge.md` | Dart 类型系统、空安全、面向对象、Records、Patterns、异步、Isolate、Package 与测试 |
 | `Cross-Platform-Mobile/` | `Flutter-Development-Architecture.md` | Flutter 渲染、状态、分层架构、原生通信、Add-to-App、模块化、性能与测试 |
+| `Cross-Platform-Mobile/` | `Flutter-Native-Components-Integration.md` | iOS/Android 原生能力提供给 Flutter 使用、Platform Channel、PlatformView、Plugin、Pigeon 与示例代码 |
 | `Python-Backend/` | `Python-Language-Knowledge.md` | Python 语言核心语法、对象模型、并发、GIL、标准库与编码习惯 |
 | `Python-Backend/` | `Python-Project-Scaffold.md` | Python 项目结构、配置、日志、FastAPI 示例、数据库、测试、Docker 化 |
 | `Python-Backend/` | `Python-Server-Technologies-Architecture.md` | HTTP API、数据库、缓存、消息队列、安全、可观测性、部署与架构风格 |
